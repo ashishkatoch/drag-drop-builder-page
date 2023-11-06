@@ -1,0 +1,261 @@
+#aaweber_child label{min-width:121px}
+#save_credit_card_div{float:left;margin-left:135px}
+#card_add_form{border:1px solid #ddd;float:left;padding:20px}
+form#card_add_form label{font-weight:500}
+.wrapper_add_back_card{border-left:1px solid #ddd;border-right:1px solid #ddd;border-top:1px solid #ddd;float:left;padding:20px;width:100%}
+.heading-add-card{padding:7px}
+.save_credit_card_div_back{float:right;padding:7px!important}
+.fullslider{width:100%!important}
+.em-in-outer .panel-box div.box-title{background:#54a0dd;border-bottom:1px solid #54a0dd;border-radius:5px 5px 0 0;border-top:1px solid #54a0dd;clear:both;min-height:20px;width:100%;float:left;padding:16px 7px 16px 20px!important}
+.em-in-outer .panel-box div.box-title h3{color:#fff;float:left;font-size:15px;font-weight:700;margin:0}
+.integ-outer.em-in-outer .panel-box .box-content{border:1px solid #d4dee5;display:none;float:left;padding:20px;width:100%}
+.em-in-outer .jk_st_outer_cont{display:inline-block;position:relative;width:100%;margin-bottom:40px}
+.em-in-outer label{color:#000;display:block;float:left;font-size:17px;font-weight:100;margin-top:4px;line-height:22px}
+.em-in-outer .jk_st_opt_cont{min-width:75%;float:left}
+.em-in-outer .width-25 label{width:25%}
+.jk_st_inner_cont{border-bottom:1px solid #eee;float:left;margin-bottom:30px;padding-bottom:16px;width:100%}
+form#change_billing .select2-container{float:left}
+.float-right{float:right}
+.em-in-outer .jk_st_opt_cont textarea{border:1px solid #ddd;height:100px;resize:none;width:100%}
+.em-in-outer .jk_st_opt_cont input{border:1px solid #ddd;height:42px;resize:none;width:100%}
+.em-in-outer .jk_st_opt_cont input[type=radio]{border:1px solid #ddd;height:auto;width:auto}
+.em-in-outer .width-25 input{width:90%}
+.em-in-outer .jk_st_opt_cont p{margin:0}
+.em-in-outer .save_header_setting_cont{float:left;padding:0!important;width:100%}
+.em-in-outer .save_header_setting_cont a{background-color:#54a0dd;border-radius:3px;color:#fff;float:left;padding:7px 19px}
+.em-in-outer .save_header_setting_cont a:hover{background-color:#4789bd}
+.em-in-outer .jk_hide{display:none!important}
+.em-in-outer .button-primary{background-color:#54a0dd;border-radius:3px;color:#fff;float:left;padding:7px 19px}
+.jk_fail,.jk_success{clear:both;font-weight:700;padding:8px 1%}
+.em-in-outer .button-primary:hover{background-color:#4789bd}
+.em-in-outer .border-red-email{border:1px solid red!important}
+.jk_success{background-color:#dff0d8;border:1px solid #d6e9c6;border-radius:4px;color:#3c763d;margin:13px 0;width:97.5%}
+.email_error_message{float:left;margin-top:11px;width:93%;display:none}
+.jk_fail{background-color:#f2dede;border:1px solid #ebccd1;border-radius:4px;color:#a94442;margin:13px 0;width:97.5%}
+.em-in-outer.email-main-top{float:left;text-align:center;width:100%}
+.em-in-outer .panel-box{background:#fff;margin:30px auto auto;width:60%;display:inline-block}
+.em-in-outer .panel-box:last-child{margin-bottom:40px}
+.CI-pagination{float:right}
+.white-color-icon{color:#fff;float:right;left:21px;position:absolute;top:18px}
+.basic_slider_settings{width:100%!important}
+.slider-error-message_slider{float:left;margin-left:259px!important;margin-top:20px!important;width:60%}
+.border-raduis{border-radius:5px!important}
+.integ-outer a:focus{color:#549fdd}
+.slider-controls-btn{text-align:left;padding-left:20px}
+.gnr_pass{margin-top:6px;display:inherit}
+/* .site-footer{position:sticky;bottom:0;z-index:9999} */
+
+.plan_detail_discrption h3{background-color:#54a0dd;color:#fff;padding:15px;font-size:18px;border-radius:6px 6px 0 0;margin:0;font-weight:600}
+.plan_detail_discrption span{float:left;width:100%;background-color:#fbfbfb}
+.plan_detail_discrption span ul li{float:left;width:100%;border-bottom:1px solid #ddd;padding:10px 25px;position:relative}
+.plan_detail_discrption span ul{list-style-type:none;list-style-type:none;display:inline-block;padding:15px;width:100%;margin-bottom:0}
+.plan_detail_discrption span ul li::before{position:absolute;content:"\f046 ";left:0;top:8px;font-family:fontawesome;color:#54a0dd;font-size:18px}
+.plan_detail_discrption span ul li:last-child{border-bottom:none}
+.plan_detail_discrption span pre.editContent{font-size:18px}
+strong{font-weight:700!important}
+.plan_detail_discrption span{float:left;width:100%;background-color:#fbfbfb;border-bottom:1px solid #ccc}
+.plan_detail_discrption span ul li{float:left;width:100%;border-bottom:1px solid #ddd;padding:10px 25px;position:relative}
+pre{margin-bottom:5px}
+.plans-details{border:1px solid #e7e9ec;min-height:150px}
+.plans-details ul{margin:0;float:left;width:100%}
+.plan_detail_discrption{display:inline-block;margin-top:10px;width:100%}
+.discrption_detail{margin-top:15px;width:100%}
+a.plusminus, a.plusminus:hover {  text-decoration: none; color: #1f8001;    display: block; margin: 0 auto;color: #1f8001;}
+label.account_placeholdername, label.account_placeholdervalue {
+    border: 1px solid #dddddd;
+    width: 50%;
+    text-align: center;margin: 0px;
+}
+/* flex css */
+.flex_center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/* flex css */
+._login_page .error-outer {
+    max-width: 600px;
+    margin: 0 auto 15px;
+    float: none;
+    width: 100%;
+}
+._login_page .login-left{
+    width: 600px;
+}
+._login_page .input-field {
+    position: relative;
+    margin-bottom: 20px;
+}
+._login_page .login-head {
+    margin-bottom: 15px;
+}
+._login_page .input-field .login-icon{
+    top: 5px;
+}
+._login_page .input-field input {
+    height: 35px;
+    margin: 0 0 0 37px;
+    font-size: 16px;
+}
+._login_page .input-field input[type="password"] {
+    padding-right: 25px;
+}
+._login_page .input-field img {
+    position: absolute;
+    right: 5px;
+    bottom: 10px;
+}
+._login_page .login-left{
+    padding: 20px;
+}
+
+._remember {
+    float: left;
+}
+._lost_pwd {
+    float: right;
+    width: 60%;
+}
+._lost_pwd a {
+    float: right;
+    width: 100%;
+    text-align: right;
+}
+._login_page h6.eror-mg {
+    position: absolute;
+    left: 0px;
+    bottom: -18px;
+}
+._forget_pwd .for-pass-outer{
+    max-width: 600px;
+    width: 94%;
+}
+._forget_pwd .for-pass-inner{
+    width: 100%;
+    padding: 20px;
+}
+._forget_pwd .input-field input {
+    margin-left: 37px !important;
+}
+._forget_pwd .for-pass-inner p{
+    font-weight: 600;
+}
+._login_page .pass-hide-icon{
+    right: 8px;
+}
+.login .success {
+    width: 100%;
+    text-align: left;
+}
+.em-in-outer .width-25 label {
+    width: 100%;
+    text-align: left;
+    font-weight: 600;
+}
+.em-in-outer .width-25 input,.em-in-outer .jk_st_opt_cont {
+    width: 100%;
+}
+.order_domain h3 {
+    font-size: 31px;
+    margin-left: 12px;
+}
+.order_domain label {
+    font-size: 18px;
+}
+.domain_type.subdomain {
+    margin-left: 10px;
+}
+.dom_rem_load {
+    background-color: #a7a4a4 !important;
+}
+
+
+@media screen and (max-width:768px){
+    .logo-loging img {
+        width: 180px;
+    }
+    ._forget_pwd .login-button button,._forget_pwd .login-button a{
+        height: 46px;
+        font-size: 16px;
+    }
+    .reg-sag h4{
+        font-size: 26px;
+    }
+    img.reg-ed {
+        width: 22px;
+    }
+    ._login_page .login-button.reg-btn {
+        margin-top: 7px;
+    }
+}
+@media screen and (max-width:480px){
+    .login-inner .logo-loging {
+        margin: 35px 0;
+    }
+    ._lost_pwd{
+        width: 100%;
+    }
+    ._lost_pwd a {
+        text-align: center;
+    }
+    ._login_page .login-button a,._login_page .login-button button{
+        width: 100%;
+    }
+    .login-button button{
+        margin-top: 5px;
+    }
+    .login-inner .login-rember {
+        margin-top: 0px;
+    }
+}
+div#error_message {
+    display: none;
+}
+div#error_message.error_response,div#error_message.success_response {
+    display: block;
+}
+
+/*pagination style*/
+.dataTables_paginate.paging_bootstrap {
+  margin: 0px;
+  padding: 0px;
+}
+.dataTables_paginate.paging_bootstrap .pagination {
+	margin: 0px;
+	padding: 0px;
+}
+.dataTables_paginate.paging_bootstrap .pagination li {
+		margin: 0px;
+	padding: 0px;
+	width: auto;
+	min-width: auto;
+    
+}
+.dataTables_paginate.paging_bootstrap .pagination li.prev a {
+    background: transparent;
+}
+
+.dataTables_paginate.paging_bootstrap .pagination li a {
+	/*margin: 0px;	margin: 0px;	min-height: auto;	padding: 0px;	min-width: 41px;    font-family: "Open Sans",sans-serif;    height: 30px;    line-height: 30px;    font-size: 12px;*/
+
+    margin: 0px;
+    min-height: auto;
+    padding: 0px;
+    min-width: 41px;
+    font-family: "Open Sans",sans-serif;
+    height: 30px;
+    line-height: 30px!important;
+    font-size: 12px;
+    display: i;
+    vertical-align: middle;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
+.dataTables_paginate.paging_bootstrap .pagination li a
+.dataTables_paginate.paging_bootstrap .pagination li a i {
+    font-size: 2rem;
+}
+.dataTables_paginate li>a, .dataTables_paginate li>span, .pagination li>a, .pagination li>span{ background-color:#fff;}

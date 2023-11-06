@@ -1,0 +1,18 @@
+    .ui-state-highlight + div { border-top-width:0px; }
+.ui-state-highlight {
+    display: block;
+    height: 66px;
+    background: #29ae9f2e;
+    float: left;
+    width: 100%;
+    border: 1px dotted;
+}
+/*.ui-state-highlight{opacity: 0;}*/
+.enq-single-question-container-plus-add{background:transparent !important;}
+
+.enq-single-group-container-plus-add,.enq-single-question-container-plus-add { display:block; position:relative; padding:12px 0px 12px 15px; z-index:1;}
+.enq-single-group-container-plus-add:after,.enq-single-question-container-plus-add:after {  display:block; position:absolute; height:100%; width:100%; top:0px; left:0px; content:' '; border-radius:6px; z-index:-1; }
+.enq-single-group-container-plus-add,.enq-single-question-container-plus-add{ -moz-transition:border-top-width 0.1s ease-in; -webkit-transition:border-top-width 0.1s ease-in; border-top:0px solid rgba(0,0,0,0); }
+.edit-form-builder .enq-single-group-container-plus-add {padding: 0px 0px 0px 15px;}
+.wrap_formtype{padding: 0 0 15px 15px;}
+.delGrpMcqField, .delGrpEnqField {background: #e4001b !important;}
